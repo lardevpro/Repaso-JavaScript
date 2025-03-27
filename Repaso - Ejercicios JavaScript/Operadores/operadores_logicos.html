@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script type="text/javascript">
+
+        let num1 = 10;
+        let num2 = 10;
+
+        // operador de igualdad ==
+        if(num1 == num2) {
+            document.writeln(num1 + " es  igual que "+ num2 +"<br>")
+        }
+
+        num1 = 20;
+        num2 = 30;
+         // operador "menor que" <
+        if(num1 < num2) {
+            document.writeln(num1 + " es  menor que "+ num2 +"<br>")
+        }
+
+
+        num1 = 50;
+        num2 = 30;
+         // operador "mayor que" <
+        if(num1 > num2) {
+            document.writeln(num1 + " es  mayor que "+ num2 +"<br>")
+        }
+
+        num1 = 30;
+        num2 = 30;
+         // operador "mayor o igual que" >=
+        if(num1 >= num2) {
+            document.writeln(num1 + " es  mayor o igual que "+ num2 +"<br>")
+        }
+
+
+        num1 = 30;
+        num2 = 30;
+         // operador "menor o igual que" <=
+        if(num1 <= num2) {
+            document.writeln(num1 + " es  mayor o igual que "+ num2 +"<br>")
+        }
+
+        // operador &&, se deben cumplir todas las condiciones
+        // operador ||, se debe cumplir solo una de las condiciones
+        // los valores && y || se pueden convinar dependiendo de las necesidades
+        // se utilizan cuando hay que validar varias condiciones
+
+        num1 = 30;
+        num2 = 30;
+         // operador "menor o igual que" <= y && "igual que" ==
+        if(num1 <= num2 && num1 == num2 ) {
+            document.writeln(num1 + " es  mayor o igual que "+ num2 +"<br>")
+        }
+
+
+        /*hay una operador que comprueba el tipo de dato ===,
+        además de coincidir el valor debe coincidir en tipo*/
+
+        document.write("El programa finaliza aquí <br>"); // para comprobar el flujo del programa
+
+    </script>
+
+</body>
+</html>
