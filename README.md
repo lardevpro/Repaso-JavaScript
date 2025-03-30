@@ -1,60 +1,34 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/54068cd3-71f7-4421-b289-bc04865dba94)
 
-Curso de JavaScript 🚀
+# Curso de JavaScript - Píldoras Informáticas 🚀
 
-Este repositorio contiene los apuntes y ejercicios basados en el Curso de JavaScript de Píldoras Informáticas. A lo largo del curso, se exploran los fundamentos del lenguaje y su aplicación en desarrollo web.
+Este repositorio recoge los apuntes, ejercicios y recursos complementarios del **Curso de JavaScript** impartido por **Píldoras Informáticas**. A lo largo de este curso, aprenderás los fundamentos del lenguaje de programación JavaScript, desde su instalación y configuración hasta la creación de aplicaciones dinámicas en la web.
 
-📌 Contenido del curso
+## 📌 ¿Qué aprenderás en este curso?
 
-🔹 Introducción a JavaScript
+### 🔹 **Fundamentos de JavaScript**
+- Introducción a JavaScript: Historia, características y configuración del entorno de desarrollo.
+- Variables, tipos de datos, operadores y estructuras de control fundamentales.
+- Funciones y ámbito de ejecución: cómo organizar y reutilizar código de manera eficiente.
+- Manejo de Arrays y Objetos para almacenar y manipular datos complejos.
 
-¿Qué es JavaScript?
+### 🔹 **Interacción con el DOM**
+- Técnicas para manipular el DOM: seleccionar, modificar y actualizar elementos HTML desde JavaScript.
+- Cómo gestionar eventos y mejorar la interacción con los usuarios mediante formularios y botones.
 
-Historia y evolución del lenguaje
+### 🔹 **Programación Avanzada**
+- Funciones de orden superior, callbacks, promesas y `async/await` para trabajar de manera asíncrona.
+- Introducción a la manipulación de datos en formato JSON y cómo consumir APIs de terceros.
 
-Instalación y configuración del entorno
+### 🔹 **Prácticas y Aplicaciones Reales**
+- Ejercicios prácticos para poner en práctica lo aprendido: validación de formularios, interacciones con APIs y mucho más.
+- Introducción a herramientas modernas como **Node.js** y **npm** para gestionar proyectos y dependencias.
 
-🔹 Fundamentos del lenguaje
+## 🎯 Objetivos del curso
 
-Variables y tipos de datos
+El curso tiene como objetivo proporcionar una comprensión sólida de JavaScript, preparándote para desarrollar aplicaciones web dinámicas y eficaces. Al finalizar, tendrás los conocimientos suficientes para enfrentar proyectos de desarrollo web y trabajar con frameworks modernos que utilizan JavaScript como base.
 
-Operadores y estructuras de control
+📌 **Fuente**: [Píldoras Informáticas](https://www.pildorasinformaticas.es/)
 
-Funciones y ámbitos
-
-Arrays y objetos
-
-🔹 Manipulación del DOM
-
-Selección de elementos HTML
-
-Modificación del contenido y estilos
-
-Eventos y manejo de interacciones
-
-🔹 Programación avanzada
-
-Funciones anónimas y callbacks
-
-Promesas y async/await
-
-Manipulación de JSON
-
-🔹 Aplicaciones prácticas
-
-Validación de formularios
-
-Consumo de APIs con Fetch
-
-Introducción a frameworks y librerías
-
-🎯 Objetivo
-
-Este repositorio servirá como referencia para repasar los conceptos aprendidos en el curso de Píldoras Informáticas y mejorar el desarrollo web con JavaScript.
-
-📌 Fuente: Píldoras Informáticas
-
-¡A seguir aprendiendo! 🚀
-
-
+¡Empieza tu viaje de aprendizaje en JavaScript hoy mismo! 🚀
