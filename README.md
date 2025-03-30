@@ -1,5 +1,5 @@
 
-![javascript-vector-logo-yellow-png-transparent-javascript-vector-12](https://github.com/user-attachments/assets/e2179b35-a903-437f-8d72-01282ebce31d)
+![maxresdefault](https://github.com/user-attachments/assets/54068cd3-71f7-4421-b289-bc04865dba94)
 
 Curso de JavaScript 🚀
 
