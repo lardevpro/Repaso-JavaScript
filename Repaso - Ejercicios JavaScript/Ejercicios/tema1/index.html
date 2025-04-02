@@ -1,0 +1,63 @@
+<!-- Crea un programa JavaScript que se ejecute en el navegador. 
+  Objetivo del ejercicio: 
+  
+  Estás creando una simple aplicación meteorológica.
+  Los datos del clima se obtienen en forma de códigos numéricos desde una ventana de tipo prompt, 
+  y debes convertir estos códigos en descripciones legibles. Descripción de códigos de clima: 
+  
+  • 1: Día soleado 
+  • 2: Parcialmente nublado 
+  • 3: Mayormente nublado 
+  • 4: Lluvioso 
+  • 5: Nieve 
+  • 6: Tormenta 
+  
+  La estructura switch-case debe tomar el código de clima como condición e imprimir la descripción correspondiente en la página web. 
+  Debes crear una opción válida en caso de que el usuario no introduzca en el prompt ninguna de las opciones anteriores.  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+
+        let clima = parseInt(prompt('Introduce un número del 1 al 6'))
+
+        switch (clima) {
+            case 1:
+                alert('Día soleado')
+                break;
+        
+            case 2:
+                alert('Parcialmente nublado')
+                break;
+        
+            case 3:
+                alert('Mayormente nublado ')
+                break;
+        
+            case 4:
+                alert('Mayormente nublado')
+                break;
+        
+            case 5:
+                alert('Lluvioso')
+                break;
+        
+            case 6:
+                alert('Nieve')
+                break;
+        
+            default:
+                alert('La opción seleccionada no está disponible')
+                break;
+        }
+
+
+    </script>
+</body>
+</html>
