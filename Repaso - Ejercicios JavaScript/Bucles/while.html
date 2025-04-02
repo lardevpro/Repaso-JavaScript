@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+        //calcular un número pedido con prompt elevado a otro número pedido por prompt
+
+
+
+        let numero = parseInt(prompt('Introduce el número que quieres calcular'));
+        let potencia = parseInt(prompt('Introduce el número al cual quieres elevar'));
+        let resultado = 1;
+
+        while( potencia > 0) {
+            resultado = resultado * numero;
+            potencia--;
+        }
+
+        alert('El número ' + numero + ' elevado a ' + potencia + ' da: ' + resultado)
+
+    </script>
+    
+</body>
+</html>
