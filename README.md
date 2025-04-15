@@ -1,7 +1,7 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/54068cd3-71f7-4421-b289-bc04865dba94)
 
-# Curso de JavaScript  🚀
+# Fundamentos de JavaScript  🚀
 
 Este repositorio recoge los apuntes, ejercicios y recursos complementarios necesarios para adquirir **Fundamentos de JavaScript** . A lo largo de este curso, aprenderás los fundamentos del lenguaje de programación JavaScript, desde su instalación y configuración hasta la creación de aplicaciones dinámicas en la web.
 
