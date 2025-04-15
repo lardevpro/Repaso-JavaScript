@@ -1,9 +1,9 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/54068cd3-71f7-4421-b289-bc04865dba94)
 
-# Curso de JavaScript - Píldoras Informáticas 🚀
+# Curso de JavaScript  🚀
 
-Este repositorio recoge los apuntes, ejercicios y recursos complementarios del **Curso de JavaScript** impartido por **Píldoras Informáticas**. A lo largo de este curso, aprenderás los fundamentos del lenguaje de programación JavaScript, desde su instalación y configuración hasta la creación de aplicaciones dinámicas en la web.
+Este repositorio recoge los apuntes, ejercicios y recursos complementarios necesarios para adquirir **Fundamentos de JavaScript** . A lo largo de este curso, aprenderás los fundamentos del lenguaje de programación JavaScript, desde su instalación y configuración hasta la creación de aplicaciones dinámicas en la web.
 
 ## 📌 ¿Qué aprenderás en este curso?
 
@@ -29,6 +29,5 @@ Este repositorio recoge los apuntes, ejercicios y recursos complementarios del *
 
 El curso tiene como objetivo proporcionar una comprensión sólida de JavaScript, preparándote para desarrollar aplicaciones web dinámicas y eficaces. Al finalizar, tendrás los conocimientos suficientes para enfrentar proyectos de desarrollo web y trabajar con frameworks modernos que utilizan JavaScript como base.
 
-📌 **Fuente**: [Píldoras Informáticas](https://www.pildorasinformaticas.es/)
 
 ¡Empieza tu viaje de aprendizaje en JavaScript hoy mismo! 🚀
